@@ -1,0 +1,1 @@
+I've been compiling and launching the app using Visual Studio 2022 so I don't know if it'll work any other way. I'll make sure there's an easier way to launch it later.
